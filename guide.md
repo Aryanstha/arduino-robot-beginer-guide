@@ -130,22 +130,48 @@ Don't forget to remove the jumper from the "pwr" of motor shield
 
 
 ![image](https://user-images.githubusercontent.com/67673221/120105366-53237100-c178-11eb-966a-ca487bb15bff.png)
+
+
+
+
+
+
+ ![+--](https://user-images.githubusercontent.com/67673221/120105471-c62ce780-c178-11eb-9c9b-6695f069822e.JPG)
+
+
+
+
+
+
+
  
  
- 
- 
-
-
-
-
-
-
-
-
-
-Make two holes for accessing the USB port and the DC input port of the Arduino. Take another 9 volt battery and connect a battery clip to a DC male jack adapter, then connect the DC male jack to the Arduino DC input port, to power the Arduino. Then place the battery between the motors and Arduino inside the box.
+ Make two holes for accessing the USB port and the DC input port of the Arduino. 
+ Take another 9 volt battery and connect a battery clip to a DC male jack adapter, then connect the DC male jack to the Arduino DC input port, to power the Arduino.
+ Then place the battery between the motors and Arduino inside the box.
 
 Connecting Bluetooth Module and Switch
+
+
+
+![ffffff](https://user-images.githubusercontent.com/67673221/120105592-49e6d400-c179-11eb-945c-1ed506a2703e.JPG)
+
+
+
+
+![kkkk](https://user-images.githubusercontent.com/67673221/120105615-6420b200-c179-11eb-8dfc-ce045bdbed0f.JPG)
+
+
+
+
+
+![--++](https://user-images.githubusercontent.com/67673221/120105663-a649f380-c179-11eb-8c9a-b2a674aea24f.JPG)
+
+
+
+
+
+
 Connect the Bluetooth module to the Arduino as shown in the connection diagram and place it inside the box. Then make hole to mount the switch on the back side of the box and connect the switch (here I have changed the switch which is used earlier because of some soldering problem).
 
 Wiring Instruction of Bluetooth module:
