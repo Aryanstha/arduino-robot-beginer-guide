@@ -172,7 +172,8 @@ Connecting Bluetooth Module and Switch
 
 
 
-Connect the Bluetooth module to the Arduino as shown in the connection diagram and place it inside the box. Then make hole to mount the switch on the back side of the box and connect the switch (here I have changed the switch which is used earlier because of some soldering problem).
+Connect the Bluetooth module to the Arduino as shown in the connection diagram and place it inside the box.
+Then make hole to mount the switch on the back side of the box and connect the switch (here I have changed the switch which is used earlier because of some soldering problem).
 
 Wiring Instruction of Bluetooth module:
 
@@ -181,9 +182,39 @@ Wiring Instruction of Bluetooth module:
 "VCC" of Bluetooth Module goes to "5v" of Arduino
 "GND" of Bluetooth Module goes to "GND" of Arduino
 The State & Key pins of the BT modules are kept unused.
-Overall Circuit diagram
+
 Sensor Ultrasonic Mounting
-Take the ultrasonic sensor and glue a small 'L' shaped plastic piece to it and glue it on top of the plastic box (or if you don't have a glue stick use double sided tape). Then connect the jumper wires to as shown in the circuit diagram above.
+
+
+
+![sensor](https://user-images.githubusercontent.com/67673221/120105817-49027200-c17a-11eb-8cfe-e9ca8025ccb2.JPG)
+
+
+
+
+![connect](https://user-images.githubusercontent.com/67673221/120105840-63d4e680-c17a-11eb-85e1-fb8d9dc0a60f.JPG)
+
+
+
+
+
+![conn wiire](https://user-images.githubusercontent.com/67673221/120105939-b31b1700-c17a-11eb-9829-94f8c06552ca.JPG)
+
+
+
+
+
+![total](https://user-images.githubusercontent.com/67673221/120105948-bf06d900-c17a-11eb-8b39-f1a968ec441c.JPG)
+
+
+
+
+
+
+
+
+Take the ultrasonic sensor and glue a small 'L' shaped plastic piece to it and glue it on top of the plastic box (or if you don't have a glue stick use double sided tape). 
+Then connect the jumper wires to as shown in the circuit diagram above.
 
 Wiring Instruction of ultrasonic sensor:
 
@@ -197,3 +228,7 @@ Last step - Arduino codes and Bluetooth app editing
 Upload the "Final Sketch" provided in the code section. If you face any error, make sure you have installed the AFmotor library.
 
 Now, we learned how to program a Arduino easily. I have shown here some programs to work this robot as a obstacle avoiding robot, Wall follower, and Bluetooth controlled. and at last i have combined this three functions together. Watch the video for more details and information
+
+Make sure to install AFmotor library into Arduino. 
+Download AFmotor library:https://github.com/adafruit/Adafruit-Motor-Shield-library
+To install Arduino library:https://www.arduino.cc/en/Guide/Libraries
