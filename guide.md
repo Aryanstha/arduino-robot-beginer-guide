@@ -69,6 +69,8 @@ Mount two 9 volt batteries inside the box above the caster. Then wire them in pa
 
 Connecting the Arduino and Motor Shield
 
+Attach the motor shield above the Arduino.
+
 
 
 ![--](https://user-images.githubusercontent.com/67673221/120104887-6b928c00-c176-11eb-919a-f5438f7d3e7d.JPG)
@@ -76,13 +78,20 @@ Connecting the Arduino and Motor Shield
 
 
 
-Attach the motor shield above the Arduino.
-
-
 
 Connect the battery wires to the PWR terminals of motor shield.
 
+
+![+-](https://user-images.githubusercontent.com/67673221/120105076-30dd2380-c177-11eb-8ecc-ed93f9f73256.JPG)
+
+
+
+
+
 Connect the motors to the motor shield.
+
+
+
 
 Remove the jumper from this port.
 
