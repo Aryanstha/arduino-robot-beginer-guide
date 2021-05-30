@@ -92,10 +92,28 @@ Connect the motors to the motor shield.
 
 
 
+![+-](https://user-images.githubusercontent.com/67673221/120105131-5b2ee100-c177-11eb-80f4-fe5416355f58.JPG)
+
+
+
+
 
 Remove the jumper from this port.
 
+
+
+![-+](https://user-images.githubusercontent.com/67673221/120105137-65e97600-c177-11eb-92c2-bde3e5386820.JPG)
+
+
+
+
 Connect the motor shield above the Arduino and place it above the battery. Then connect the wires from the motors and battery to the motor shield. Check out the connection diagram before connecting, as it is very important.
+
+
+![connn](https://user-images.githubusercontent.com/67673221/120105193-a5b05d80-c177-11eb-8191-6b242c8d520d.JPG)
+
+
+
 
 Wiring Instructions:
 
@@ -103,14 +121,27 @@ Connect the left motor to "M1" of motor shield
 Connect the right motor to "M3" of motor shield
 Connect the the wire from battery to "ext pwr" of motor shield
 Don't forget to remove the jumper from the "pwr" of motor shield
-Make two holes and power the Arduino
-Mark the spot to make holes. 
 
-Make the holes.
 
-Connect the battery clip to DC male jack to the 9V battery.
 
-Place this 9 volt battery inside the box.
+![connnn](https://user-images.githubusercontent.com/67673221/120105301-15bee380-c178-11eb-98b5-69501b6c9ddf.JPG)
+
+
+
+
+![image](https://user-images.githubusercontent.com/67673221/120105366-53237100-c178-11eb-966a-ca487bb15bff.png)
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
 
 Make two holes for accessing the USB port and the DC input port of the Arduino. Take another 9 volt battery and connect a battery clip to a DC male jack adapter, then connect the DC male jack to the Arduino DC input port, to power the Arduino. Then place the battery between the motors and Arduino inside the box.
 
