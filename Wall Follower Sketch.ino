@@ -23,7 +23,7 @@ void setup()
 
 	//turn off motors
 	motorRight.setSpeed(0);
-	motorLeft.setSpeed(0);
+	motorLeft.setSpeed(0);//set speed to 0
 	motorRight.run(RELEASE);
 	motorLeft.run(RELEASE);
 }
